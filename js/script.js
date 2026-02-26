@@ -1,3 +1,7 @@
+import Animate from "./plugins/simple-anime.js";
+// Animação
+new Animate();
+
 // Ativar links do menu
 const links = document.querySelectorAll(".header-menu a");
 
@@ -52,7 +56,3 @@ function eventosGaleria(img) {
   img.addEventListener("click", trocarImagem);
 }
 galeria.forEach(eventosGaleria);
-
-import Animate from "./plugins/simple-anime.js";
-// Animação
-new Animate();
