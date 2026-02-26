@@ -49,10 +49,18 @@ cd bikcraft
 
 3. Abra o arquivo index.html no seu navegador.
 
-✍️ Créditos e Agradecimentos
-Projeto desenvolvido durante as aulas do professor André Rafael na plataforma Origamid. 
-O design original pertence à Origamid, e a implementação do código foi feita por mim durante as aulas.
+## ✍️ Créditos e Agradecimentos
 
-👋 Contato
-Desenvolvido por Bia Cursi. Vamos conversar?
+Este projeto foi desenvolvido como parte do curso **HTML e CSS para Iniciantes** da [Origamid](https://www.origamid.com/). 
+
+O design e toda a estrutura visual foram criados pelo instrutor **André Rafael**. A implementação do código, organização dos arquivos e adaptações foram realizadas por mim, seguindo as melhores práticas de desenvolvimento web ensinadas durante as aulas.
+
+---
+
+## 👋 Contato
+
+Desenvolvido por **Bia Cursi**. Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/biacursi](https://www.linkedin.com/in/bianca-marcelino-cursii/))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biacursi)
 
